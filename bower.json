@@ -1,0 +1,23 @@
+{
+  "name": "InitialEnvironment",
+  "description": "Test project",
+  "main": "js/libs.min.js",
+  "authors": [
+    "Semyon <s_shepetov@mail.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
